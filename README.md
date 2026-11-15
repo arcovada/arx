@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="resc/arx.png" width="200px">
+  <img src="resc/arx_logo.png" width="200px">
 
   <br>
   
