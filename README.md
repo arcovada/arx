@@ -1,10 +1,11 @@
 <div align="center">
   
-  <img src="resc/arx_logo.png" width="200px">
+  <img src="resc/arx_logo.png" width="400px">
 
   <br>
   
   **The ARX generation of Arcovada**
+  <br>
 
   [![author](https://img.shields.io/badge/made%20by-Arcovada-black)](https://github.com/arcovada/)
   [![ocpu](https://img.shields.io/badge/powered%20by-OCPU-purple)](https://github.com/arcovada/ocpu)
