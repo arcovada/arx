@@ -1,15 +1,11 @@
 <div align="center">
   
   <img src="resc/arx_logo.png" width="400px">
-  <br>
-  <ruby>
-    <rp>(</rp><rt>Pronounced  >arcs<</rt><rp>)</rp>
-  </ruby>
   
   <br>
   
   <h1>Advanced Runtime eXecution</h1>
-  <br>
+  
 
   [![author](https://img.shields.io/badge/made%20by-Arcovada-black)](https://github.com/arcovada/)
   [![ocpu](https://img.shields.io/badge/powered%20by-OCPU-purple)](https://github.com/arcovada/ocpu)
