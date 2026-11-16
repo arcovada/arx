@@ -14,8 +14,9 @@
 
 # ARX Generations
 
-| Name | Architecture |
-|---|---|
-| Arcovada ARX D5 | Delta |
-| Arcovada ARX Z7 | Zeta |
-| Arcovada ARX T9 | Theta |
+| Name | Architecture | oCPU Model |
+|---|---|--- |
+| Arcovada ARX D | Delta | D-oCPU |
+| Arcovada ARX Z | Zeta | Z-oCPU |
+| Arcovada ARX T | Theta | T-oCPU |
+
